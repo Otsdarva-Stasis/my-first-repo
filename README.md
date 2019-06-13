@@ -1,28 +1,21 @@
-# This is a large heading
+# Ben Washington
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Arizona, in the United States of America
 
-- This is
-- an unordered
-- list
+### Video Games
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite video games are:
 
-Here is `some code` in the middle of a sentence.
+- *Mass Effect
+- *Halo
+- *Titanfall
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I always dream about eating:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. sushi
+2. ramen
+3. burgers
